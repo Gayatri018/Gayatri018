@@ -1,3 +1,7 @@
+## Hey there! This is Gayatri ![wave](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
+
+![GitHub Banner](Banner.png)
+
 # 💫 About Me:
 🧠 Data Scientist in the making | Building impact-driven, AI-powered solutions<br>🛡️ Creator of Uniguard - reporting made anonymous, mental health made accessible<br>📊 From dashboards to deep learning, I merge insight with intuition<br>🫧 WE Alum | Always learning, always building, reach out & let’s grow together<br>⚡Fun fact- I love decoding data and learning languages, from Python to German, patterns fascinate me.
 
