@@ -1,4 +1,4 @@
-## Hey there! This is Gayatri ![wave](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
+## Hi there, this is <span style="color:#1E90FF">Gayatri</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" />
 
 ![GitHub Banner](Banner.png)
 
